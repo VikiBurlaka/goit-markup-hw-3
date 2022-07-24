@@ -304,8 +304,12 @@ padding-bottom: 94px;
     color: var(--dark-color);
     text-align: center;
     margin-bottom: 50px;
-    
-    
+}
+
+.title-text {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
 }
 
 .team-title {
@@ -313,16 +317,16 @@ padding-bottom: 94px;
     font-size: 16px;
     line-height: 1.18;
     color: var(--dark-color);
-    text-align: center;
-    padding-bottom: 10px;
-    padding-top: 30px;
+    margin: 10px;
+   
+    
+
     
 }
 
 .team-list p {
     font-size: 16px;
     line-height: 1.18;
-    text-align: center;
     padding-bottom: 30px;
     
 }
@@ -471,6 +475,12 @@ padding-bottom: 94px;
   border: 1px solid #EEEEEE;
 }
 
+.title-item {
+    padding: 20px 24px;
+    
+
+}
+
 
 
 .project-title {
@@ -479,17 +489,15 @@ padding-bottom: 94px;
     line-height: 2;
     letter-spacing: 0.06em;
     color: var(--dark-color);
-    padding-left: 24px;
-    padding-top: 20px;
-    padding-bottom: 4px;
+    margin-bottom: 4px;
+    
 }
 
 .project .project-item {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.88;
-    padding-left: 24px;
-    padding-bottom: 20px;
+    
 }
 
 
